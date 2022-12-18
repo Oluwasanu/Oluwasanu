@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwasanu
-- 👀 I’m interested in finance, data science, machine learning and artificial intelligence.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any Data science and AI project
+- 👀 I’m interested in finance, data science, blockchain development.
+- 🌱 I’m currently blockchain development.
+- 💞️ I’m looking to collaborate on any finance, data science and blockchain project.
 - 📫 You can reach me on oluwasanutemitope@gmail.com 
 
 <!---
